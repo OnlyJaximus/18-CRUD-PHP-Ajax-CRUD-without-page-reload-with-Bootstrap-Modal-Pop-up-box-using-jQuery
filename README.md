@@ -34,6 +34,8 @@ https://alertifyjs.com/notifier/position.html   <br>
 ![18](https://user-images.githubusercontent.com/56784702/219877077-22a25a72-64d0-46e6-8fa8-1b14f571330f.png)
 ![19](https://user-images.githubusercontent.com/56784702/219877078-d8215765-fb8b-4258-a15e-fca355109f57.png)
 ![20](https://user-images.githubusercontent.com/56784702/219877080-cdc5eb0b-2acd-4ef0-b9bf-063d0292ee6e.png)
+![21](https://user-images.githubusercontent.com/56784702/219877301-f5822783-3061-4b00-a334-fb85672e2303.png)
+
 ![80](https://user-images.githubusercontent.com/56784702/219877082-e997537b-13a7-4372-a0c3-5e8f39b896c0.png)
 ![81](https://user-images.githubusercontent.com/56784702/219877086-808ccf5d-17ef-423a-8c90-f7f0dcceeca5.png)
 ![110](https://user-images.githubusercontent.com/56784702/219877088-c7bee511-152a-4d34-b957-26014d6fe3c5.png)
