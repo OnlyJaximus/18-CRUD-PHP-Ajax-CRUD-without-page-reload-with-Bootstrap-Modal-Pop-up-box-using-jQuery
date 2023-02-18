@@ -14,6 +14,8 @@ https://getbootstrap.com/docs/5.1/components/modal/ <br>
 Dismissing <br>
 https://getbootstrap.com/docs/5.1/components/alerts/#dismissing  <br>
 
+Displaying messages <br>
+
 https://alertifyjs.com/guide.html  <br>
 https://alertifyjs.com/notifier/position.html   <br>
 
